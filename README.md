@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+🌱 I'm a student of Computer Engineering
+🔭 I’m currently learning some programming languages, i hope that you all enjoy my page :)
 <!--
 **alisonoliveira13/alisonoliveira13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
